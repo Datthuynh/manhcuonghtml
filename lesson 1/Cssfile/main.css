@@ -1,0 +1,18 @@
+@import url('main_left.css');
+@import url('main_right.css');
+main{}
+.products{
+}
+.products h4{
+    font-size: 14px;
+    padding-left: 10px;
+    text-transform: uppercase;
+    text-align: left;
+
+}
+.productImage{
+    
+}
+.productImage img{
+    width: 100%;
+}

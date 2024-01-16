@@ -1,0 +1,48 @@
+.main__right{
+    width: 75%;
+    margin-left: 1%;
+    margin-top: 0;
+}
+#slider{}
+#slider img{
+    width: 100%;
+    background-size: cover;
+    height: 355px;
+}
+#info{}
+#info h1{
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+#info p{
+    font-size: 15px;
+}
+#info p a{}
+#info p span{
+    color: blue;
+    font-size: 15px;
+}
+#productHome{}
+.productHome__title{
+    padding: 21px;
+}
+.productHome__heading{
+}
+.productHome__heading h3{
+    color: #f2f1f1;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.productHome__link{
+}
+.productHome__link a{
+    text-decoration: none;
+    font-size: 13px;
+    text-align: right;
+}
+.productHome__list{}
+.productImage{}
+
+
